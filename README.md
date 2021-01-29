@@ -1,1 +1,1 @@
-# Heart_Attack_Prediction_ML_model with PCA analysis
+# Heart attack prediction ML model with PCA analysis
